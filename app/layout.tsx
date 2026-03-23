@@ -8,6 +8,7 @@ import Providers from "@/components/Providers"
 import AppShell from "@/components/AppShell"
 import { WishlistProvider } from "@/lib/wishlist-context"
 import { CartProvider } from "@/hooks/useCart"
+import { Analytics } from "@vercel/analytics/next"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -68,6 +69,7 @@ export default function RootLayout({
           </CartProvider>
           </WishlistProvider>
         </Providers>
+        <Analytics />
       </body>
     </html>
   )
