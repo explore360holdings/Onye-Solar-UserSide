@@ -142,7 +142,7 @@ export default function ContactPage() {
                             <CardContent className="space-y-4 text-gray-600">
                                 <div className="flex items-center gap-4">
                                     <Mail className="w-6 h-6 text-primary" />
-                                    <a href="mailto:info@onyesolar.com" className="hover:text-primary">info@onyesolar.com</a>
+                                    <a href="mailto:contactonyesolar@gmail.com" className="hover:text-primary">contactonyesolar@gmail.com</a>
                                 </div>
                                 <div className="flex items-center gap-4">
                                     <Phone className="w-6 h-6 text-primary" />
@@ -150,7 +150,7 @@ export default function ContactPage() {
                                 </div>
                                 <div className="flex items-start gap-4">
                                     <MapPin className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
-                                    <span>No. 59 Ekundayo Street, Ajegunle<br/>Apapa, Lagos, Nigeria</span>
+                                    <span>No. 3 Brown Close, Brown Junction, Aguda<br/>Surulere, Lagos, Nigeria</span>
                                 </div>
                             </CardContent>
                         </Card>
