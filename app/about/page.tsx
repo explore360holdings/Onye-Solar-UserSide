@@ -41,7 +41,7 @@ export default function AboutPage() {
                     <div>
                         <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Story</h2>
                         <p className="text-gray-600 leading-relaxed space-y-4">
-                            Founded in 2024 with a simple yet powerful vision, OnyeSolar began as a small team of passionate individuals with an objective to impact society. We saw the potential of how solar energy can transform not just homes and businesses, we believe in impact of how it lights up every city, town, villages and the world at large.
+                            Founded in 2024 with a simple yet powerful vision, OnyeSolar began as a small team of passionate individuals with an objective to impact society by providing alternative power supply to light up every city. We saw the potential of how solar energy can transform not just homes and businesses, we believe in impact of how it lights up every city, town, villages and the world at large.
                             <br /><br />
                             Today, we've grown into a leading provider of solar solutions, having helped thousands of customers transition to clean, sustainable energy as alternate source of power. Our commitment to quality, innovation, and customer satisfaction remains at the heart of everything we do.
                         </p>
