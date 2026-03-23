@@ -30,7 +30,7 @@ export default function AboutPage() {
                 <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 text-center">
                     <h1 className="text-4xl font-extrabold text-white sm:text-5xl">Powering a Brighter Future</h1>
                     <p className="mt-4 text-xl text-gray-300 max-w-3xl mx-auto">
-                        At SolarTech, our mission is to make renewable energy accessible and affordable for everyone.
+                        At OnyeSolar, our mission is to make renewable energy accessible and affordable for everyone.
                     </p>
                 </div>
             </div>
@@ -41,13 +41,13 @@ export default function AboutPage() {
                     <div>
                         <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Story</h2>
                         <p className="text-gray-600 leading-relaxed space-y-4">
-                            Founded in 2015 with a simple yet powerful vision, SolarTech began as a small team of passionate engineers and environmentalists. We saw the potential of solar energy to transform not just homes and businesses, but the world itself.
+                            Founded in 2024 with a simple yet powerful vision, OnyeSolar began as a small team of passionate individuals with an objective to impact society. We saw the potential of how solar energy can transform not just homes and businesses, we believe in impact of how it lights up every city, town, villages and the world at large.
                             <br /><br />
-                            Today, we've grown into a leading provider of solar solutions, having helped thousands of customers transition to clean, sustainable energy. Our commitment to quality, innovation, and customer satisfaction remains at the heart of everything we do.
+                            Today, we've grown into a leading provider of solar solutions, having helped thousands of customers transition to clean, sustainable energy as alternate source of power. Our commitment to quality, innovation, and customer satisfaction remains at the heart of everything we do.
                         </p>
                     </div>
                     <div className="relative h-96 rounded-2xl overflow-hidden">
-                        <Image src="/images/team-meeting.jpg" alt="SolarTech team" fill className="object-cover" />
+                        <Image src="/images/team-meeting.jpg" alt="OnyeSolar team" fill className="object-cover" />
                     </div>
                 </div>
 
