@@ -56,7 +56,7 @@ export function AdminHeader({ sidebarCollapsed, setSidebarCollapsed }: AdminHead
             </div>
             <div className="hidden md:block">
               <p className="font-medium text-gray-900">Admin User</p>
-              <p className="text-sm text-gray-500">admin@solartech.com</p>
+              <p className="text-sm text-gray-500">contactonyesolar@gmail.com</p>
             </div>
           </div>
         </div>
