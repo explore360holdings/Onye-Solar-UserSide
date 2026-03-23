@@ -48,7 +48,7 @@ export function Footer() {
               <span className="text-xl font-bold">Onye-Solar</span>
             </div>
             <p className="text-gray-400 mb-4">
-              Leading provider of premium solar energy solutions for residential and commercial applications.
+              Leading provider of premium solar energy solutions for residential, commercial and corporate engagements.
             </p>
             
             <div className="flex space-x-4">
@@ -127,11 +127,11 @@ export function Footer() {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-primary" />
-                <span className="text-gray-400">info@onyesolar.com</span>
+                <span className="text-gray-400">contactonyesolar@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="w-5 h-5 text-primary" />
-                <span className="text-gray-400">123 Solar Street, Green City, GC 12345</span>
+                <span className="text-gray-400">N0 3 Brown Close, Brown Junction, Aguda, Surulere, Lagos</span>
               </div>
             </div>
           </div>
@@ -139,7 +139,7 @@ export function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © {currentYear} SolarTech. All rights reserved.
+            © {currentYear} OnyeSolar. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <Link href="/privacy" className="text-gray-400 hover:text-white text-sm transition-colors">
